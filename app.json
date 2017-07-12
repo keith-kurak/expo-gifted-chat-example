@@ -19,7 +19,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.llamaluvr.expogiftedchatexample",
-      "buildNumber": 1
+      "buildNumber": "1"
     },
     "android": {
       "package": "com.llamaluvr.expogiftedchatexample",
